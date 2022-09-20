@@ -35,3 +35,10 @@
 
 * Articles
   * [Run Stable Diffusion on your M1 Mac’s GPU](https://replicate.com/blog/run-stable-diffusion-on-m1-mac)
+
+
+## SD Training Dataset Related
+
+* [simonw/laion-aesthetic-datasette](https://github.com/simonw/laion-aesthetic-datasette) - Explore the dataset with Datasette
+
+* [Clip-retrival Iaion5B](https://rom1504.github.io/clip-retrieval) - Explore with the dataset with [rom1504/clip-retrieval](https://github.com/rom1504/clip-retrieval)
