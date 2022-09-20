@@ -22,6 +22,11 @@
 * [harubaru/waifu-diffusion](https://github.com/harubaru/waifu-diffusion) - Finetuned on danbooru
 
 
+## Related Tools & Repositories
+
+* [andreasjansson/stable-diffusion-animation](https://replicate.com/andreasjansson/stable-diffusion-animation) - Animate Stable Diffusion by interpolating between two prompts
+
+
 ## OS/Architecture Specific
 
 * Tools
