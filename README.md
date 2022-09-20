@@ -26,6 +26,14 @@
 * [lwneal/duckrabbit](https://github.com/lwneal/duckrabbit/) - Generate smooth video loops with Stable Diffusion
 
 
+## Services & Products
+
+* [Lexica](https://lexica.art/) - Search images and prompts
+* [Artbreeder](https://www.artbreeder.com/) - Manipulate art and breed images
+* [Draw Anything](https://www.drawanything.app/) - A Simple Stable Diffusion Playground
+* [Alpaca](https://www.getalpaca.io/) - Photoshop™ plugin (private beta)
+* [NightCafe](https://nightcafe.studio/) - Stable Diffusion playground with a lot of prompt modifiers to pick
+
 ## Related Tools & Repositories
 
 * [hlky/sd-enable-textual-inversion](https://github.com/hlky/sd-enable-textual-inversion) - Enable textual inversion for Stable Diffusion
@@ -72,6 +80,10 @@
 
 ## Interesting Articles
 
+* [4.2 Gigabytes, or: How to Draw Anything](https://andys.page/posts/how-to-draw/)
+
+* [How and why stable diffusion works for text to image generation](https://www.paepper.com/blog/posts/how-and-why-stable-diffusion-works-for-text-to-image-generation/)
+
 * [Stable Diffusion is a really big deal](https://simonwillison.net/2022/Aug/29/stable-diffusion/)
 
 * [Stable Diffusion Is the Most Important AI Art Model Ever](https://thealgorithmicbridge.substack.com/p/stable-diffusion-is-the-most-important)
@@ -81,3 +93,5 @@
 * [Exploring 12 Million of the 2.3 Billion Images Used to Train Stable Diffusion’s Image Generator](https://waxy.org/2022/08/exploring-12-million-of-the-images-used-to-train-stable-diffusions-image-generator/)
 
 * [Stable Diffusion based Image Compression](https://matthias-buehlmann.medium.com/stable-diffusion-based-image-compresssion-6f1f0a399202)
+
+* [I Resurrected "Ugly Sonic" with Stable Diffusion Textual Inversion](https://minimaxir.com/2022/09/stable-diffusion-ugly-sonic/)
