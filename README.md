@@ -13,7 +13,7 @@
 ## Popular Forks
 
 * [InvokeAI](https://github.com/invoke-ai/InvokeAI) - A Stable Diffusion Toolkit
-> Features an interactive command-line script that combines text2img and img2img functionality in a "dream bot" style interface, a WebGUI, and multiple features and other enhancements.
+  > Features an interactive command-line script that combines text2img and img2img functionality in a "dream bot" style interface, a WebGUI, and multiple features and other enhancements.
 
 * [sd-webui/stable-diffusion-webui](https://github.com/sd-webui/stable-diffusion-webui) - Stable Diffusion web UI
 
@@ -40,10 +40,12 @@
 
 * Tools
   * [divamgupta/diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) - Diffusion Bee (M1 or M2 only)
-  > Diffusion Bee is the easiest way to run Stable Diffusion locally on your M1 Mac. Comes with a one-click installer.
+   
+    > Diffusion Bee is the easiest way to run Stable Diffusion locally on your M1 Mac. Comes with a one-click installer.
 
   * [CHARL-E](https://www.charl-e.com/) - Stable Diffusion on your Mac in 1 click (M1 or M2 only)
-  > CHARL-E packages Stable Diffusion into a simple app. No complex setup, dependencies, or internet required.
+   
+    > CHARL-E packages Stable Diffusion into a simple app. No complex setup, dependencies, or internet required.
 
   * [bes-dev/stable_diffusion.openvino](https://github.com/bes-dev/stable_diffusion.openvino) - Run Stable Diffusion on Intel CPUs
 
