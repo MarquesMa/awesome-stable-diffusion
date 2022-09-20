@@ -20,3 +20,13 @@
 * [basujindal/stable-diffusion](https://github.com/basujindal/stable-diffusion) - Run on lower GPU VRAM
 
 * [harubaru/waifu-diffusion](https://github.com/harubaru/waifu-diffusion) - Finetuned on danbooru
+
+
+## OS/Architecture Specific
+
+* Tools
+  * [divamgupta/diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) - Diffusion Bee
+  > Diffusion Bee is the easiest way to run Stable Diffusion locally on your M1 Mac. Comes with a one-click installer.
+
+* Articles
+  * [Run Stable Diffusion on your M1 Mac’s GPU](https://replicate.com/blog/run-stable-diffusion-on-m1-mac)
